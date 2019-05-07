@@ -1,0 +1,159 @@
+# KELAS POLITIK # 
+- Fold Ke 1 - 
+Indeks Data test : 0 1 2 3 
+Label True       : 0 1 0 1 
+Label Prediksi   : 0 1 0 1 
+Hamming Loss ke-1: 0.08333333333333333
+- Fold Ke 2 - 
+Indeks Data test : 4 5 6 7 
+Label True       : 0 1 0 1 
+Label Prediksi   : 0 0 0 1 
+Hamming Loss ke-2: 0.41666666666666663
+- Fold Ke 3 - 
+Indeks Data test : 8 9 10 11 
+Label True       : 1 0 0 0 
+Label Prediksi   : 0 1 0 0 
+Hamming Loss ke-3: 0.3333333333333333
+- Fold Ke 4 - 
+Indeks Data test : 12 13 14 15 
+Label True       : 1 0 1 0 
+Label Prediksi   : 0 0 1 0 
+Hamming Loss ke-4: 0.41666666666666663
+- Fold Ke 5 - 
+Indeks Data test : 16 17 18 19 
+Label True       : 0 1 1 0 
+Label Prediksi   : 1 0 1 0 
+Hamming Loss ke-5: 0.5
+- Fold Ke 6 - 
+Indeks Data test : 20 21 22 
+Label True       : 0 0 0 
+Label Prediksi   : 0 0 0 
+Hamming Loss ke-6: 0.08333333333333333
+- Fold Ke 7 - 
+Indeks Data test : 23 24 25 
+Label True       : 0 0 1 
+Label Prediksi   : 0 0 1 
+Hamming Loss ke-7: 0.08333333333333333
+- Fold Ke 8 - 
+Indeks Data test : 26 27 28 
+Label True       : 1 1 1 
+Label Prediksi   : 1 1 0 
+Hamming Loss ke-8: 0.25
+- Fold Ke 9 - 
+Indeks Data test : 29 30 31 
+Label True       : 0 0 0 
+Label Prediksi   : 0 0 0 
+Hamming Loss ke-9: 0.25
+- Fold Ke 10 - 
+Indeks Data test : 32 33 34 
+Label True       : 0 1 0 
+Label Prediksi   : 1 1 0 
+Hamming Loss ke-10: 0.25
+
+# KELAS EKONOMI # 
+- Fold Ke 1 - 
+Indeks Data test : 0 1 2 3 
+Label True       : 1 0 1 1 
+Label Prediksi   : 1 0 1 1 
+Hamming Loss ke-1: 0.08333333333333333
+- Fold Ke 2 - 
+Indeks Data test : 4 5 6 7 
+Label True       : 1 0 0 0 
+Label Prediksi   : 1 1 1 0 
+Hamming Loss ke-2: 0.41666666666666663
+- Fold Ke 3 - 
+Indeks Data test : 8 9 10 11 
+Label True       : 1 0 0 1 
+Label Prediksi   : 1 0 1 1 
+Hamming Loss ke-3: 0.3333333333333333
+- Fold Ke 4 - 
+Indeks Data test : 12 13 14 15 
+Label True       : 1 1 0 1 
+Label Prediksi   : 1 0 0 1 
+Hamming Loss ke-4: 0.41666666666666663
+- Fold Ke 5 - 
+Indeks Data test : 16 17 18 19 
+Label True       : 1 0 1 1 
+Label Prediksi   : 1 1 1 0 
+Hamming Loss ke-5: 0.5
+- Fold Ke 6 - 
+Indeks Data test : 20 21 22 
+Label True       : 0 1 1 
+Label Prediksi   : 0 1 1 
+Hamming Loss ke-6: 0.08333333333333333
+- Fold Ke 7 - 
+Indeks Data test : 23 24 25 
+Label True       : 1 1 1 
+Label Prediksi   : 1 1 0 
+Hamming Loss ke-7: 0.08333333333333333
+- Fold Ke 8 - 
+Indeks Data test : 26 27 28 
+Label True       : 0 0 1 
+Label Prediksi   : 0 0 1 
+Hamming Loss ke-8: 0.25
+- Fold Ke 9 - 
+Indeks Data test : 29 30 31 
+Label True       : 1 1 1 
+Label Prediksi   : 1 1 0 
+Hamming Loss ke-9: 0.25
+- Fold Ke 10 - 
+Indeks Data test : 32 33 34 
+Label True       : 1 1 1 
+Label Prediksi   : 1 0 1 
+Hamming Loss ke-10: 0.25
+
+# KELAS TEKNOLOGI # 
+- Fold Ke 1 - 
+Indeks Data test : 0 1 2 3 
+Label True       : 1 0 0 0 
+Label Prediksi   : 0 0 0 0 
+Hamming Loss ke-1: 0.08333333333333333
+- Fold Ke 2 - 
+Indeks Data test : 4 5 6 7 
+Label True       : 0 1 1 0 
+Label Prediksi   : 1 0 1 0 
+Hamming Loss ke-2: 0.41666666666666663
+- Fold Ke 3 - 
+Indeks Data test : 8 9 10 11 
+Label True       : 0 1 1 1 
+Label Prediksi   : 0 1 1 0 
+Hamming Loss ke-3: 0.3333333333333333
+- Fold Ke 4 - 
+Indeks Data test : 12 13 14 15 
+Label True       : 0 0 0 0 
+Label Prediksi   : 1 1 0 1 
+Hamming Loss ke-4: 0.41666666666666663
+- Fold Ke 5 - 
+Indeks Data test : 16 17 18 19 
+Label True       : 0 0 0 1 
+Label Prediksi   : 0 1 1 1 
+Hamming Loss ke-5: 0.5
+- Fold Ke 6 - 
+Indeks Data test : 20 21 22 
+Label True       : 1 1 0 
+Label Prediksi   : 1 0 0 
+Hamming Loss ke-6: 0.08333333333333333
+- Fold Ke 7 - 
+Indeks Data test : 23 24 25 
+Label True       : 0 0 0 
+Label Prediksi   : 0 0 0 
+Hamming Loss ke-7: 0.08333333333333333
+- Fold Ke 8 - 
+Indeks Data test : 26 27 28 
+Label True       : 1 0 1 
+Label Prediksi   : 0 0 0 
+Hamming Loss ke-8: 0.25
+- Fold Ke 9 - 
+Indeks Data test : 29 30 31 
+Label True       : 1 0 1 
+Label Prediksi   : 0 1 1 
+Hamming Loss ke-9: 0.25
+- Fold Ke 10 - 
+Indeks Data test : 32 33 34 
+Label True       : 0 0 1 
+Label Prediksi   : 1 0 1 
+Hamming Loss ke-10: 0.25
+
+====================================== 
+ HAMMING LOSS     : 0.2666666666666667 
+====================================== 
